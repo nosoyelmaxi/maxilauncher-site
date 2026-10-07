@@ -17,9 +17,7 @@
       --success: #3fb950;
     }
 
-    * {
-      box-sizing: border-box;
-    }
+    * { box-sizing: border-box; }
 
     body {
       margin: 0;
@@ -92,13 +90,8 @@
       border-top: 1px solid var(--border);
     }
 
-    ul {
-      padding-left: 1.25rem;
-    }
-
-    a {
-      color: var(--accent);
-    }
+    ul { padding-left: 1.25rem; }
+    a { color: var(--accent); }
 
     code {
       padding: 0.15em 0.4em;
@@ -106,6 +99,24 @@
       border: 1px solid var(--border);
       border-radius: 5px;
       color: var(--text);
+      overflow-wrap: anywhere;
+    }
+
+    .facts {
+      display: grid;
+      grid-template-columns: 170px 1fr;
+      gap: 10px 18px;
+      margin-top: 20px;
+    }
+
+    .facts dt {
+      font-weight: 700;
+      color: var(--text);
+    }
+
+    .facts dd {
+      margin: 0;
+      color: var(--muted);
     }
 
     footer {
@@ -114,6 +125,11 @@
       border-top: 1px solid var(--border);
       color: var(--muted);
       font-size: 0.9rem;
+    }
+
+    @media (max-width: 640px) {
+      .facts { grid-template-columns: 1fr; gap: 4px; }
+      .facts dd { margin-bottom: 12px; }
     }
   </style>
 </head>
@@ -159,6 +175,34 @@
     </div>
 
     <section>
+      <h2>Application registration</h2>
+      <p>
+        This site identifies the Microsoft Entra application currently submitted for Minecraft
+        Services access review.
+      </p>
+      <dl class="facts">
+        <dt>Application</dt>
+        <dd>MaxiLauncher</dd>
+        <dt>Application (client) ID</dt>
+        <dd><code>2f349c57-464f-4148-afc4-dde6b736f8b4</code></dd>
+        <dt>Platform</dt>
+        <dd>Windows desktop application / public native client</dd>
+        <dt>Purpose</dt>
+        <dd>Authenticate legitimate Minecraft: Java Edition owners and launch managed game instances.</dd>
+      </dl>
+    </section>
+
+    <section>
+      <h2>Authentication purpose</h2>
+      <p>
+        The requested Microsoft/Minecraft authentication access is used only to complete the official
+        sign-in chain, validate the Minecraft account/profile required for game launch, maintain an
+        authenticated session, and start Minecraft for the signed-in user. MaxiLauncher does not use
+        Microsoft authentication to provide cracked/offline access or to bypass game entitlement checks.
+      </p>
+    </section>
+
+    <section>
       <h2>Project status</h2>
       <p>
         MaxiLauncher is currently in early development. The technical core is being validated first,
@@ -188,6 +232,7 @@
         The project does not publish or intentionally collect user passwords, client secrets or
         private account credentials through this website.
       </p>
+      <p><a href="privacy.html">Read the MaxiLauncher privacy notice</a>.</p>
     </section>
 
     <section>
