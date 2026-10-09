@@ -1,0 +1,3 @@
+MaxiLauncher update cleanup proof
+Pack: 0.1.5
+The 0.1.4 proof file should have been removed automatically.
