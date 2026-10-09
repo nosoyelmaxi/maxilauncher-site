@@ -8,8 +8,8 @@
             "loader": "Fabric",
             "accent": "#57a6ff",
             "status": "active",
-            "banner": null,
-            "thumbnail": null
+            "banner": "https://nosoyelmaxi.github.io/maxilauncher-site/assets/adventures/maxilauncher-test.svg",
+            "thumbnail": "https://nosoyelmaxi.github.io/maxilauncher-site/assets/adventures/maxilauncher-test.svg"
         },
         {
             "id": "MaxiLauncher-Test-Secondary-1.21.1",
@@ -18,8 +18,8 @@
             "loader": "Fabric",
             "accent": "#77d4c8",
             "status": "active",
-            "banner": null,
-            "thumbnail": null
+            "banner": "https://nosoyelmaxi.github.io/maxilauncher-site/assets/adventures/fabric-clean-test.svg",
+            "thumbnail": "https://nosoyelmaxi.github.io/maxilauncher-site/assets/adventures/fabric-clean-test.svg"
         }
     ]
 }
