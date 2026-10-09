@@ -1,0 +1,13 @@
+{
+    "version": "1.0.0",
+    "packs": {
+        "MaxiLauncher-Test-1.21.1": {
+            "0.1.4": [
+                "maxilauncher/update-proof.txt"
+            ]
+        },
+        "MaxiLauncher-Test-Secondary-1.21.1": {
+            "0.1.0": []
+        }
+    }
+}
