@@ -1,0 +1,25 @@
+{
+    "version": "1.0.0",
+    "adventures": [
+        {
+            "id": "MaxiLauncher-Test-1.21.1",
+            "shortDescription": "La primera aventura de prueba de MaxiLauncher.",
+            "description": "Instancia de prueba usada para validar la biblioteca de aventuras, Minecraft 1.21.1, Fabric y Fabric API manteniendo el flujo de lanzamiento estable.",
+            "loader": "Fabric",
+            "accent": "#57a6ff",
+            "status": "active",
+            "banner": null,
+            "thumbnail": null
+        },
+        {
+            "id": "MaxiLauncher-Test-Secondary-1.21.1",
+            "shortDescription": "Entorno Fabric limpio para validar el cambio entre aventuras.",
+            "description": "Segunda aventura de prueba. Usa Minecraft 1.21.1 y Fabric Loader sin Fabric API para verificar que cada aventura conserve su propia instalación y configuración.",
+            "loader": "Fabric",
+            "accent": "#77d4c8",
+            "status": "active",
+            "banner": null,
+            "thumbnail": null
+        }
+    ]
+}
