@@ -20,16 +20,6 @@
             "status": "active",
             "banner": "https://nosoyelmaxi.github.io/maxilauncher-site/assets/adventures/fabric-clean-test.svg",
             "thumbnail": "https://nosoyelmaxi.github.io/maxilauncher-site/assets/adventures/fabric-clean-test.svg"
-        },
-        {
-            "id": "MaxiStorage-V2-Local-Test-1.21.1",
-            "shortDescription": "Prueba local de MaxiStorage Builder v2",
-            "description": "Aventura temporal para validar common, client, server e instalaciones/actualizaciones locales.",
-            "loader": "Fabric 0.16.14",
-            "accent": "#ff6a00",
-            "status": "active",
-            "banner": "https://nosoyelmaxi.github.io/maxilauncher-site/assets/adventures/maxilauncher-test.svg",
-            "thumbnail": "https://nosoyelmaxi.github.io/maxilauncher-site/assets/adventures/maxilauncher-test.svg"
         }
     ]
 }

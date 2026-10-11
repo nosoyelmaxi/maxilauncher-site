@@ -11,16 +11,6 @@
         },
         "MaxiLauncher-Test-Secondary-1.21.1": {
             "0.1.0": []
-        },
-        "MaxiStorage-V2-Local-Test-1.21.1": {
-            "0.0.0-234cee3a3ab2": [
-                "config/maxistorage-client.properties",
-                "config/maxistorage-shared.properties"
-            ],
-            "0.0.0-34526b3f16aa": [
-                "config/maxistorage-client.properties",
-                "config/maxistorage-shared.properties"
-            ]
         }
     }
 }
