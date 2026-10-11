@@ -1,17 +1,6 @@
 {
     "version": "1.0.0",
     "packs": {
-        "MaxiLauncher-Test-1.21.1": {
-            "0.1.4": [
-                "maxilauncher/update-proof.txt"
-            ],
-            "0.1.5": [
-                "maxilauncher/update-proof-0.1.5.txt"
-            ]
-        },
-        "MaxiLauncher-Test-Secondary-1.21.1": {
-            "0.1.0": []
-        },
         "horror-skyblock-1.20.1": {
             "0.0.0-982bd2b57580": [
                 ".maxilauncher-pack-source.json",
