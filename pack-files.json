@@ -2,7 +2,7 @@
     "version": "1.0.0",
     "packs": {
         "horror-skyblock-1.20.1": {
-            "0.0.0-982bd2b57580": [
+            "0.0.0-ec741b845990": [
                 ".maxilauncher-pack-source.json",
                 "config/accessories.json5",
                 "config/additional_attributes-client.toml",
@@ -359,6 +359,7 @@
                 "config/lrtactical-common.toml",
                 "config/man_config.toml",
                 "config/matc-client.toml",
+                "config/maxilauncher-update-test.txt",
                 "config/mcqoy.toml",
                 "config/mekanism_lasers-common.toml",
                 "config/mekanism_turrets-common.toml",
