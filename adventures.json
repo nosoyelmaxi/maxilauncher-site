@@ -10,6 +10,16 @@
             "status": "active",
             "banner": "https://nosoyelmaxi.github.io/maxilauncher-site/assets/adventures/horror-skyblock-banner-v3.jpg",
             "thumbnail": "https://nosoyelmaxi.github.io/maxilauncher-site/assets/adventures/horror-skyblock-thumb.jpg"
+        },
+        {
+            "id": "deceasedcraft-1.20.1",
+            "shortDescription": "Supervivencia urbana en un apocalipsis zombi.",
+            "description": "Sobrevive a un mundo devastado por una epidemia zombi.",
+            "loader": "Forge 47.4.0",
+            "accent": "#d45a2a",
+            "status": "active",
+            "banner": "https://nosoyelmaxi.github.io/maxilauncher-site/assets/adventures/series-placeholder.svg",
+            "thumbnail": "https://nosoyelmaxi.github.io/maxilauncher-site/assets/adventures/series-placeholder.svg"
         }
     ]
 }
