@@ -3,8 +3,8 @@
     "adventures": [
         {
             "id": "horror-skyblock-1.20.1",
-            "shortDescription": "Una isla perdida en el vacío, donde cada noche es una amenaza.",
-            "description": "Una isla perdida en el vacío, donde cada noche es una amenaza.",
+            "shortDescription": "Una isla perdida en el vacÃ­o, donde cada noche es una amenaza.",
+            "description": "Una isla perdida en el vacÃ­o, donde cada noche es una amenaza.",
             "loader": "Forge 47.4.26",
             "accent": "#c62835",
             "status": "active",
@@ -18,8 +18,8 @@
             "loader": "Forge 47.4.0",
             "accent": "#d45a2a",
             "status": "active",
-            "banner": "https://nosoyelmaxi.github.io/maxilauncher-site/assets/adventures/series-placeholder.svg",
-            "thumbnail": "https://nosoyelmaxi.github.io/maxilauncher-site/assets/adventures/series-placeholder.svg"
+            "banner": "https://nosoyelmaxi.github.io/maxilauncher-site/assets/adventures/deceasedcraft-banner.jpg",
+            "thumbnail": "https://nosoyelmaxi.github.io/maxilauncher-site/assets/adventures/deceasedcraft-thumb.jpg"
         }
     ]
 }
